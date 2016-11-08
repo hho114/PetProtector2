@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "485939584415",
+    "firebase_url": "https://petprotector-bf73c.firebaseio.com",
+    "project_id": "petprotector-bf73c",
+    "storage_bucket": "petprotector-bf73c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485939584415:android:6e25887ac2d97ce9",
+        "android_client_info": {
+          "package_name": "edu.orangecoastcollege.cs273.hho65.petprotector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485939584415-kqs0udbtgj8d6a0nhvvt446224chdebb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.orangecoastcollege.cs273.hho65.petprotector",
+            "certificate_hash": "E4BD7723F73C28D1F4E55452853C3FE4F6877A81"
+          }
+        },
+        {
+          "client_id": "485939584415-29prnjb6hem0v3qi9pd5ug5746mpuq65.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADL99d8RuBD5lm1mtN0AVYhgRtExRvoO8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "485939584415-29prnjb6hem0v3qi9pd5ug5746mpuq65.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
